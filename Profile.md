@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajansahu713
+- 👋 Hi, I’m Rajan Sahu
 - 👀 I’m interested in Python, Machine Learning, NLP and Backend Developer
 - 🌱 I’m currently learning Python Flask
 - 💞️ I’m looking to collaborate on Python, Machine learning, AI, and NLP
