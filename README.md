@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on Python, Machine learning, AI, and NLP
 - 📫 How to reach me rajansahu713@gmail.com/ rsrajan.jec@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansahu713&layout=compact)](https://github.com/rajansahu713/github-readme-stats)
+[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansahu713)](https://github.com/rajansahu713/github-readme-stats)
 
-![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansahu713&show_icons=true&theme=radical)
 
 <!---
 rajansahu713/rajansahu713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
