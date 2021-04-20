@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python, Machine learning, AI, and NLP
 - 📫 How to reach me rajansahu713@gmail.com/ rsrajan.jec@gmail.com
 
-![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansahu713&show_icons=true&theme=radical)
 
 <!---
 rajansahu713/rajansahu713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
