@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajan Sahu
 - 👀 I’m interested in Python, Machine Learning, NLP and Backend Developer
-- 🌱 I’m currently learning Pyspark, AWS, Hadoop, Docker
-- 💞️ I’m looking to collaborate on Python, Machine learning, AI, and NLP, Django, Django rest framework, Flask, Fastapi
+- 🌱 I’m currently learning AWS, Hadoop, Docker
+- 💞️ I’m looking to collaborate on Python, Machine learning, AI, and NLP, Django, Django rest framework, Flask, Fastapi, Pyspark
 - 📫 How to reach me rajansahu713@gmail.com/ rsrajan.jec@gmail.com
 - Please Check out my Medium blog: https://rajansahu713.medium.com/
 
