@@ -33,7 +33,6 @@ I’m interested in collaborating on:
 - **Email**: [rajansahu713@gmail.com](mailto:rajansahu713@gmail.com) | [rsrajan.jec@gmail.com](mailto:rsrajan.jec@gmail.com)
 - **LinkedIn**: [Rajan Sahu](https://www.linkedin.com/in/rajansahu713/)
 - **Medium**: [Medium Blog](https://rajansahu713.medium.com/)
-- **GitHub**: [rajansahu713](https://github.com/rajansahu713)
 
 ### 📊 GitHub Stats
 [![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansahu713&show_icons=true&theme=dark)](https://github.com/rajansahu713/github-readme-stats)
