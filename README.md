@@ -22,13 +22,6 @@ I am a passionate backend developer with over 4+ years of experience in the Info
 I love sharing my knowledge through writing, and I explain technical concepts in a way that's easy for everyone to understand, regardless of experience. Check out my latest blogs:
 - [Medium Blog: Rajan Sahu](https://rajansahu713.medium.com/)
 
-**Featured Topics**:
-- Creating millions of fake data entries in PostgreSQL
-- Best practices in API design
-- PostgreSQL optimization with partitioning
-- Disk cache vs. in-memory cache for FastAPI applications
-- Celery with RabbitMQ for background processing
-
 ### 🌟 Open to Collaborate On
 I’m interested in collaborating on:
 - **Backend development** using Python frameworks such as Django, FastAPI, Flask
